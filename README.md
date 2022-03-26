@@ -1,2 +1,2 @@
 # miroirs
-![Capture d’écran 2022-03-26 à 10 38 51](https://user-images.githubusercontent.com/79283100/160229897-3534bd18-1607-4d8b-9c84-a3e6a71ef47b.png)
+<img width="1261" alt="miroirs" src="https://user-images.githubusercontent.com/79283100/160235408-6d152987-e97a-4de8-b8ac-2e8a90c9ec04.png">
