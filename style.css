@@ -22,8 +22,10 @@ section{
     background-image: inherit;
     position: absolute;
     bottom: -100%;
-    transform: rotate(180deg);
-    background: linear-gradient();    
+    transform: rotateX(180deg);
+    background: linear-gradient() no-repeat;
+    background-size: cover;  
+    overflow: hidden;  
 }
 
 .picture:before{
@@ -34,4 +36,6 @@ section{
     position: absolute;
     bottom: -100%;
     z-index: 1;
+    overflow: hidden;  
+
 }
